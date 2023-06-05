@@ -2,7 +2,7 @@
  
 ![](https://visitor-badge.glitch.me/badge?page_id=Doslim.Omniglot-CNN-Demo)
 
-In this repository, we implement several deep neural networks for the (Omniglot challenge)[https://github.com/brendenlake/omniglot]. 
+In this repository, we implement several deep neural networks for the [Omniglot challenge](https://github.com/brendenlake/omniglot). 
 
 ## Requirements and Structures
 
