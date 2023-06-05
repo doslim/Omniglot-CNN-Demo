@@ -1,0 +1,17 @@
+num_classes: 50
+num_samples_train: 15
+num_samples_test: 5
+random_seed: 2022
+
+data_folder: '../omniglot_resized'
+model_dir: '../output'
+
+epochs: 300 
+batch_size: 128
+model_name: 'new_cnn'
+learning_rate: 0.001
+weight_decay: 0.001
+
+dropout: True
+batch_normalization: True
+

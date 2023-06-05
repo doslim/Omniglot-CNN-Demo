@@ -20,6 +20,7 @@ The structure of our project is as follows.
   - model.py: define all the models.
   - utils.py: load the data for training and evaluations.
   - config.yaml: store the configurations for model training.
+- demo.ipynb: a jupyter notebook file that shows how our codes work.
 - omniglot_resized: contain the data.
 - output: the path to save models and evaluation results.
 - report.pdf: a brief report of details of our implementations, experimental results and analysis.
